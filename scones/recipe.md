@@ -7,16 +7,16 @@ date: \today
 
 ## Ingredients
 
-To make 500g of scones.
+To make ~700 g of scones, divded in 6-8 pieces.
 
 | Weight |  Ingredient |
 |-------:|------------------:|
-| 383 g  | Wheat flout (All purpose)
-| 115 g  | Butter (unsalted)
-| 1.5 g  | Salt
-| 12.3 g | Baking powder
-| 5 g    | Sugar
-| T.T.   | Milk
+| 300 g  | Wheat flout (All purpose)
+| 150 g  | Butter (unsalted)
+| 1 tsp (~2 g)  | Salt
+| 4 tsp (~10 g) | Baking powder
+| 4 tsp (~15 g) | Sugar
+| 250 g  | Milk
 
 
 ## Procedure
@@ -29,5 +29,5 @@ To make 500g of scones.
 - Roll out in 2-3 cm thickness
 - Punch out scones
 - Preferably don't use left over dough after punching out (will be less flaky)
-- Brush with melted butter, olive oile, egg-wash og milk
+- Brush with melted butter, olive oile, egg-wash or milk
 - Bake at $180^{\circ}$C for 15 minutes

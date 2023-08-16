@@ -10,14 +10,18 @@ Til 6 personer:
 
 - 230g Hakket svinekød (20-30% fedt hvis muligt)
 - 450g Orrichiette pasta (kan substitueres med [Conchiglie](https://en.m.wikipedia.org/wiki/Conchiglie) eller [Mezzi Rigatoni](https://www.pastarummo.it/en/recipes/mezzi-rigatoni-no-51/))
-- Hvidvin
-- Brune champignon (eller anden svamp)
-- Piskefløde
-- Pecorino romano
-- Frisk rosmarin
+- 230g Brune champignon (eller anden svamp)
+- 180g Piskefløde
+- 120ml Hvidvin
+- 45g Pecorino romano
+- 7 tsk Oliven olie
+- 3 fed Hvidløg
+- 3 spsk Frisk Persille
+- 1,25 tsk Frisk rosmarin
+- 1 spsk Citron saft
+- 1/8 tsk Natron
+- Salt
 - Sort peber
-- Hvidløg
-- Citron
 
 [Download Spreadsheet med ingredienser](https://docs.google.com/spreadsheets/d/e/2PACX-1vTdjeue4xUkknu6rwY1Fp01Ztp7gfp5_HnYs3h9mCQ5tfcUDJRi7o7UUPUHHJLWIMq184LZ_EiURc1N/pub?output=ods)
 
