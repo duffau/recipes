@@ -1,5 +1,6 @@
 ---
 title: Hot Sauce
+author: "Christian Duffau-Ramussen"
 ---
 
 # Ingredienser
