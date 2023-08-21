@@ -9,10 +9,10 @@ author: "Christian Duffau-Ramussen"
 - 300 ml Eddike
 - 300 g Sukker
 - 300 ml Vand
-- 2 Majsstivelse (Maizena)
+- 2 spsk. Majsstivelse (Maizena)
 - Salt
 
-### Tilberedning
+# Fremgangsmåde
 - Fjern stilke fra chilier og halver
 - Lad lage komme i kog
 - Tilsæt chilier til varm lage

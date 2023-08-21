@@ -4,6 +4,7 @@
 - [Biang Biang Noodles](./biang-biang/recipe.md)
 - [Smash Burgers](./burger/recipe.md)
 - [Pasta Alla Norcina](./pasta-alla-norcina/recipe.md)
+- [Pasta Ragù Bianco](.(ragu-bianco/recipe.md))
 - [Porra Antequerana](./porra-antequerana/recipe.md)
 - [Scones](./scones/recipe.md)
 - [Hot sauce](./hot-sauce/recipe.md)
