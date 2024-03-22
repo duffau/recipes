@@ -1,3 +1,3 @@
 # Recipes
 
-- [Pasta Ragù Bianco](https://duffau.github.io/recipes/git-internals/ragu-bianco/)
+- [Pasta Ragù Bianco](https://duffau.github.io/recipes/ragu-bianco/)

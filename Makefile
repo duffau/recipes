@@ -1,5 +1,5 @@
 index.html:
-	pandoc index.md -o .index.html --css ../static/simple.css --standalone
+	pandoc index.md -o .index.html --css ./static/simple.css --standalone
 
 
 recipes.html:
