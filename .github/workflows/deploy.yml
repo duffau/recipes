@@ -1,0 +1,35 @@
+name: Build and Deploy
+on: [push]
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout 🛎️
+        uses: actions/checkout@v2.3.1
+
+      - name: Install deps
+        run: |
+          source .github/workflows/utils.sh
+          APP="pandoc"
+          GITHUB_URL="https://github.com/jgm/pandoc"
+          printblue "\nInstalling $APP"
+          latestversion=$(get_latest_github_release "${GITHUB_URL}")
+          deb_file="pandoc-${latestversion}-1-${ARCH:-amd64}.deb"
+          echo "Installing $deb_file version: $latestversion"
+          mkdir -p ./tmp
+          sudo curl -sL "${GITHUB_URL}/releases/download/${latestversion}/${deb_file}" -o ./tmp/$deb_file
+          sudo dpkg -i ./tmp/$deb_file
+          sudo rm -r ./tmp
+          printok "$APP installed"
+
+      - name: Build pages 
+        run: |
+          make recipes.html
+          for fp in $(find . -name .recipe.html); do mv ${fp} ${fp%.recipe.html}index.html ; done
+
+
+      - name: Deploy 🚀
+        uses: JamesIves/github-pages-deploy-action@4.1.5
+        with:
+          branch: gh-pages # The branch the action should deploy to.
+          folder: .
