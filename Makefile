@@ -3,4 +3,8 @@ index.html:
 
 
 recipes.html:
-	$(MAKE) recipe.html -C ./ragu-bianco
+	for d in */.; do \
+		if [ "$$d" != "static/." ]; then \
+			$(MAKE) recipe.html -C $$d; \
+		fi; \
+	done
