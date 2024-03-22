@@ -3,8 +3,6 @@ title: Ragù Bianco
 author: "Christian Duffau-Ramussen"
 ---
 
-
-
 # Ingredienser
 
 Til 4 personer:
@@ -25,7 +23,6 @@ Til 4 personer:
 
 # Fremgangsmåde
 
-
 ## Prep.
 - Med et fint rivejern, riv skrællen af en **halv citron**
 - Hak, **løg, bladselleri, gulerod, hvidløg** i fodoprocesser eller i små tern med kniv
@@ -45,11 +42,10 @@ Til 4 personer:
 ## Kog pasta
 - Sæt vand over med 1% salt. Dvs. 1 liter vand 10 g salt.
 - **Kog pastaen** 2 minutter mindre end hvad der står på pakken
-
+- Tag 100-200 ml pastakogevand fra
+- Dræn pasta
 
 ## Samle retten
-- Tag 100-200 ml pata kogevand til side
-- Dræn pasta
 - **Vend pastaen** rundt i saucen i sauterpanden
 - Tilsæt eventuelt **lidt fløde**
 - Til 2-3 spsk. pastavand for at **jævne saucen**
