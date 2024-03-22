@@ -26,6 +26,7 @@ jobs:
         run: |
           make recipes.html
           for fp in $(find . -name .recipe.html); do mv ${fp} ${fp%.recipe.html}index.html ; done
+          make index.html
           mv .index.html index.html
 
 
