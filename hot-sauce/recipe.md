@@ -17,7 +17,7 @@ author: "Christian Duffau-Ramussen"
 - Lad lage komme i kog
 - Tilsæt chilier til varm lage
 - Lad trække i 5-10 minutter
-- Blend til helt smooth 
+- Blend til helt jævn
 - Sigt
 - Kom tilbage i gryde
 - Pisk majsstivelse i en smule sovs i en skål
