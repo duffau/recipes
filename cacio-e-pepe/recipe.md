@@ -1,14 +1,17 @@
 ---
-tilte: "Recipe: cacio e pepe"
-date: \today
+titel: "Cacio e Pepe"
 ---
 
-# Background
+# Baggrund
 
-A Roman pasta dish combining cheese and black pepper. "Cacio e pepe" means "cheese and pepper", the word "Cacio" comes from the latin word "caseus" which is the root of the Spanish "queso" and the German "käse", both meaning _cheese_. 
+En romersk pastaret, der kombinerer ost og sort peber. "Cacio e pepe" betyder "ost og peber", ordet "Cacio" stammer fra det latinske ord "caseus", som er roden til det spanske "queso" og det tyske "käse", som begge betyder _ost_.
 
-# Cheese emulsification
+# Ostemulsion
+
+Den klassiske "Cacio e Pepe" gør kun brug af stivelsen i pastavandet til at emulgere osten til at blive en jævn og silkeblød sauce.  
 
 ![](./cheese-emulsification-temps.png)
 
-Credit to YouTuber [@EthanChlebowski](https://www.youtube.com/watch?v=10lXPzbRoU0).
+Det er en svær teknik da ost har et meget snævert temperaturspænd hvor den er flydende nok til at emulgere, men ikke for varm hvor bindingerne mellem protein kæderne brydes, proteinerne siges at denaturere og osten danner klumper.
+
+Kilde: YouTuber [@EthanChlebowski](https://www.youtube.com/watch?v=10lXPzbRoU0).

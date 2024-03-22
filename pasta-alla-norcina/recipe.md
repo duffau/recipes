@@ -1,6 +1,5 @@
 ---
-title: "Opskrift: Pasta Alla Norcina"
-date: \today
+title: "Pasta Alla Norcina"
 ---
 
 

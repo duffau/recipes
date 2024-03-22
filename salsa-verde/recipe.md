@@ -5,7 +5,7 @@ title: "Salsa Verde"
 
 # Ingredienser
 
-- Tomatillos
+- Grønne Tomatillos fra dåse (Kan erstattes med tomater)
 - Grøn peberfrugt
 - Jalapeños
 - Løg
@@ -14,8 +14,17 @@ title: "Salsa Verde"
 
 # Fremgagsmåde
 
+## Prep.
+
+- Fjern kerner og center fra grøn peberfrugt
+- Fjern skal og halver løg
+- Lad skallen blive på hvidløg
+
+## Tilberedning
+- Spred grøntsager ud i et jævn lag på bageplade
 - Rist alle grønsager i ovnen på grill 
 - Rist i ca. 10 minutter til sort på overfladen og bløde
+- Pil skallen af hvidløg
 - Kom i en blender
 - Tisæt salt
 - Tilsæt koriander

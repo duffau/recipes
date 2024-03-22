@@ -1,27 +1,34 @@
 ---
-title: "Recipe: Biang Biang noodle dough"
-date: \today
+titel: "Opskrift: Biang Biang-nudeldej"
 ---
 
-## Ingredients
+# Ingredienser
 
-| Weight | Weight percentage | Bakers percentage | Ingredient |
-|-------:|------------------:|------------------:|------------|
-| 250 g  |  65% | 100% | Wheat flour (All Purpose)
-| 130 g  |  34% |  52% | Water 
-|   3 g  |  ~1% |  ~1% | Fine salt
+| Vægt | Vægtprocent | Bagernes procentdel | Ingrediens         |
+|------:|------------:|--------------------:|--------------------|
+| 250 g |  65%        | 100%                | Hvedemel (Almindeligt)
+| 130 g |  34%        |  52%                | Vand
+|   3 g |  ~1%        |  ~1%                | Fint salt
 
-- Mix salt and flour
-- Add water gradually while mixing in unidirectional circular motion
-- Lightly kneat dough until uniform
-- Rest covered for 15-20 minute for the dough to fully hydrate
-- Kneat dough for 5 minutes
-- Rest covered for 10 minutes
-- Roll dough into a 2.5 cm diameter cylinder
-- Cut into 7 cylinders of length 6.4 cm
-- Roll each of the 7 cylinders into rectangles of 5cm x 10cm x 1cm
-- Cover each rectangle in sunflower oil
-- Rest covered under cling wrap for 30-60 minutes
+# Fremgangsmåde
 
+## Lav dej
+- Bland salt og mel
+- Tilføj vand gradvist mens du blander i en ensrettet cirkulær bevægelse
+- Ælt dejen let indtil den er ensartet
+- Lad hvile dækket i 15-20 minutter for at lade dejen hydrere fuldt ud
+- Ælt dejen i 5 minutter
+- Lad hvile dækket i 10 minutter
+- Rul dejen ud til en cylinder med en diameter på 2,5 cm
+- Skær i 7 cylindere af 6,4 cm længde
+- Rul hver af de 7 cylindere ud til rektangler på 5cm x 10cm x 1cm
+- Dæk hver rektangel med solsikkeolie
+- Lad hvile dækket under husholdningsfilm i 30-60 minutter
 
-## References
+## Stræk nudler og tilbered
+- Bring 2 l vand til kogepunktet
+- Stræk nudler ved at hode et fast greb i hver end og sving op og ned
+- Dump nudler ned i kogende vand
+- Tag nudler op efter 3-5 min eller når de flyder på overfladen
+  
+  

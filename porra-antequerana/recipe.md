@@ -1,6 +1,5 @@
 ---
-title: "Opskrift: Porra Antequerana"
-date: \today
+title: "Porra Antequerana"
 ---
 
 
