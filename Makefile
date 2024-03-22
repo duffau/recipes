@@ -1,4 +1,2 @@
 recipes.html:
-	for d in */.; do \
-		$(MAKE) recipe.html -C $$d; \
-	done
+	$(MAKE) recipe.html -C ./ragu-bianco
