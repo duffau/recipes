@@ -1,5 +1,5 @@
 ---
-title: "Pad Kra-Pao"
+title: "Farang Pad Kra-Pao"
 ---
 
 
