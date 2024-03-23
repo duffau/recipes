@@ -47,4 +47,4 @@ Til 3-4 personer
 - Smør Bechamel ovenpå skinken
 - Drys revet ost udover
 - Læg bagplade med sølvpapri i bunden af oven for at opsamle ost
-- Bag i ~10 minutter 2/3 oppe i ovnen ved 220°C med grill
+- Bag i ~5 minutter 2/3 oppe i ovnen ved 220°C med grill
