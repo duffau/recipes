@@ -5,7 +5,7 @@ title: "Salat: Blancheret Romaine Salat i Soja-hvidløgsauce"
 
 # Ingredienser
 
-- 1 stk romaine salathoved 
+- 1 stk romaine salathoved eller 3 stk. hjertesalathoveder
 - 4-5 fed hvidløg
 - 2 spsk. Østerssauce
 - 1 spsk. Sojasauce
