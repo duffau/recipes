@@ -1,5 +1,5 @@
 ---
-title: "Pad Kra-Pao"
+title: "Farang Pad Kra-Pao"
 ---
 
 
@@ -34,10 +34,11 @@ Til 4 personer:
 #### Basilikum
 - Skyl og pluk en håndfuld basilikumblade
 
-## Tilberedning
-- Varm olie op i en sauterpande eller wok
-- Steg aromatisk grønsagsmos i et par minutter ved høj varme
-- Tilsæt hakket svin og skrue ned til middel varme
+## Tilbered 
+- Varm 3 spsk. smagsneutral olie op i en sauterpande eller wok
+- Steg aromatisk grønsagsmos i et par minutter ved middel-høj varme (7 ud af 9)
+- Tilsæt hakket svin
+- Tilsæt et nip salt
 - Lad svinekød stege til det er 1 min fra gennemstegt
 - Tilsæt sauceblanding
 - Rør
