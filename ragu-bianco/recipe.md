@@ -3,6 +3,8 @@ title: Ragù Bianco
 author: "Christian Duffau-Ramussen"
 ---
 
+[All recipes](https://duffau.github.io/recipes)
+
 # Ingredienser
 
 Til 4 personer:

@@ -3,6 +3,9 @@ title: "Farang Pad Kra-Pao"
 ---
 
 
+[Alle opskrifter](https://duffau.github.io/recipes)
+
+
 # Ingredienser
 
 Til 4 personer:

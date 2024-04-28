@@ -2,6 +2,8 @@
 title: "Salat: Blancheret Romaine Salat i Soja-hvidløgsauce"
 ---
 
+[Alle opskrifter](https://duffau.github.io/recipes)
+
 
 # Ingredienser
 

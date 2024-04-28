@@ -2,6 +2,9 @@
 titel: "Croque Monsieur"
 ---
 
+[Alle opskrifter](https://duffau.github.io/recipes)
+
+
 # Ingredienser
 
 Til 3-4 personer

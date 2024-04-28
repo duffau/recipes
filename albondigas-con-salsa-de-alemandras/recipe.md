@@ -3,6 +3,8 @@ title: "Opskrift: Albondigas con salsa de Alemandras"
 date: \today
 ---
 
+[Alle opskrifter](https://duffau.github.io/recipes)
+
 
 ## Ingredienser
 

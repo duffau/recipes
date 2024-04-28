@@ -3,6 +3,8 @@ title: Pasta Bolognese
 author: "Christian Duffau-Ramussen"
 ---
 
+[Alle opskrifter](https://duffau.github.io/recipes)
+
 # Ingredienser
 
 Til 8 serveringer:

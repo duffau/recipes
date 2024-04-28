@@ -3,6 +3,9 @@ title: "Opskrift: Smash Burger"
 date: \today
 ---
 
+[Alle opskrifter](https://duffau.github.io/recipes)
+
+
 # Beef patties
 
 ## Introduktion

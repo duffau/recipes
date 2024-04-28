@@ -10,7 +10,7 @@ author: Christian Duffau-Rasmussen
 - [Romaine Salat i Hvidløg-sojasauce](https://duffau.github.io/recipes/romaine-salat-i-hvidløgssauce)
 - ['Smashed Cucumber' Salat](https://duffau.github.io/recipes/smashed-cucumber)
 - [Pasta Bolognese](https://duffau.github.io/recipes/bolognese/)
-- [Pasta Pesto Genovese](./pasta-pesto-genovese/)
+- [Pasta Pesto Genovese](https://duffau.github.io/recipes/pasta-pesto-genovese/)
 - [Pasta Ragù Bianco](https://duffau.github.io/recipes/ragu-bianco/)
 - [Pasta Alla Norcina](https://duffau.github.io/recipes/pasta-alla-norcina/)
 - [Hot Sauce](https://duffau.github.io/recipes/hot-sauce/)
