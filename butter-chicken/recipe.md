@@ -36,9 +36,9 @@ title: "Matty Matheson's Butter Chicken"
 # Fremgangsmåde
 
 ## Prep.
+- Placér olivenolie, hvidløg, chilier, løg og ingefær i en blender og purér til det er glat.
 
 ## Butter Chicken Sauce
-- Placér olivenolie, hvidløg, chilier, løg og ingefær i en blender og purér til det er glat.
 - Opvarm ghee i en stor støbejernsgryde over medium-høj varme (7 ud af 9). 
 - Tilføj løgpuréen og steg, indtil blandingen mørkner let og blødgør, ca. 15 minutter.
 - Tilføj gurkemeje, chilipulver, garam masala, koriander og spidskommen 
