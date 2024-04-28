@@ -28,8 +28,8 @@ title: "Matty Matheson's Butter Chicken"
 - 785 gram tomat passata
 - 1 spsk. tørrede bukkehornsblade
 - 4 kyllingebryster uden ben og skind, skåret i 2,5 cm tern (omtrent 1 kilogram)
-- 2 kopper|500 ml piskefløde
-- 8 spsk.|113 gram usaltet smør
+- 500 ml piskefløde
+- 115 gram smør
 - Frisk koriander
 - Kogt jasminris, til servering
 
