@@ -13,6 +13,8 @@ author: Christian Duffau-Rasmussen
 - [Pasta Pesto Genovese](https://duffau.github.io/recipes/pasta-pesto-genovese/)
 - [Pasta Ragù Bianco](https://duffau.github.io/recipes/ragu-bianco/)
 - [Pasta Alla Norcina](https://duffau.github.io/recipes/pasta-alla-norcina/)
+- [Pasta m. Kærnemælk, mynte og pistacienødder](https://duffau.github.io/recipes/pasta-kærnemælk-mynte-pistacie)
+- [Butter Chicken]()
 - [Hot Sauce](https://duffau.github.io/recipes/hot-sauce/)
 - [Salsa Verde](https://duffau.github.io/recipes/salsa-verde/)
 - [Scones](https://duffau.github.io/recipes/scones/)
