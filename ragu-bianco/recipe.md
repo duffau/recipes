@@ -15,7 +15,7 @@ Til 4 personer:
 - 3 fed hvidløg
 - 1 Citron
 - 1 stængel frisk Rosmarin
-- 2 glas hvidvin
+- 1 glas hvidvin (~15 cl)
 - 50 g Parmesan
 - 125 ml Piskefløde
 
