@@ -2,6 +2,8 @@
 title: "Salat: 'Smashed Cucumber'"
 ---
 
+[Alle opskrifter](https://duffau.github.io/recipes)
+
 
 # Ingredienser
 

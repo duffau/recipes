@@ -3,6 +3,8 @@ titel: "Opskrift: Scones"
 forfatter: "Christian Duffau-Rasmussen"
 ---
 
+[Alle opskrifter](https://duffau.github.io/recipes)
+
 
 # Ingredienser
 

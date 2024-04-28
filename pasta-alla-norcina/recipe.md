@@ -2,6 +2,8 @@
 title: "Pasta Alla Norcina"
 ---
 
+[Alle opskrifter](https://duffau.github.io/recipes)
+
 
 ## Ingredienser
 

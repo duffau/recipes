@@ -119,26 +119,29 @@ body > footer {
 }
 
 /* Format headers */
+/* Reduce font size and adjust spacing for headlines */
 h1 {
-  font-size: 3rem;
+  font-size: 1.75rem; /* Smaller than the default size */
+  margin-bottom: 0.5rem; /* Reduced bottom margin */
 }
 
 h2 {
-  font-size: 2.6rem;
-  margin-top: 3rem;
+  font-size: 1.5rem; /* Consistently smaller */
+  margin-bottom: 0.5rem;
 }
 
 h3 {
-  font-size: 2rem;
-  margin-top: 3rem;
+  font-size: 1.25rem;
+  margin-bottom: 0.5rem;
 }
 
 h4 {
-  font-size: 1.44rem;
+  font-size: 1.1rem;
+  margin-bottom: 0.5rem;
 }
 
 h5 {
-  font-size: 1.15rem;
+  font-size: 1.05rem;
 }
 
 h6 {
@@ -164,19 +167,19 @@ h3 {
 /* Reduce header size on mobile */
 @media only screen and (max-width: 720px) {
   h1 {
-    font-size: 2.5rem;
+    font-size: 1.5rem;
   }
 
   h2 {
-    font-size: 2.1rem;
+    font-size: 1.1rem;
   }
 
   h3 {
-    font-size: 1.75rem;
+    font-size: 0.75rem;
   }
 
   h4 {
-    font-size: 1.25rem;
+    font-size: 0.25rem;
   }
 }
 

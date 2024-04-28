@@ -3,6 +3,9 @@ title: Hot Sauce
 author: "Christian Duffau-Ramussen"
 ---
 
+[Alle opskrifter](https://duffau.github.io/recipes)
+
+
 # Ingredienser
 
 - 200 g Chilier

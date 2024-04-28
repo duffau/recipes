@@ -4,6 +4,9 @@ author: "Christian Duffau-Ramussen"
 date: \today
 ---
 
+[Alle opskrifter](https://duffau.github.io/recipes)
+
+
 # Mørdej
 
 ## Ingredienser
