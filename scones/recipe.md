@@ -6,6 +6,9 @@ forfatter: "Christian Duffau-Rasmussen"
 [Alle opskrifter](https://duffau.github.io/recipes)
 
 
+## Kilder
+- [Jamie Oliver - How To Make Scones](https://www.youtube.com/watch?v=BVNhJXa5W74)
+
 # Ingredienser
 
 For at lave ~700 g scones, opdelt i 6-8 stykker.
