@@ -1,5 +1,6 @@
 ---
 title: "Opskrift: Smash Burger"
+author: Christian Duffau-Rasmussen
 date: \today
 ---
 
