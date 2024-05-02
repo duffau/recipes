@@ -5,6 +5,9 @@ title: "Pasta Alla Norcina"
 [Alle opskrifter](https://duffau.github.io/recipes)
 
 
+## Kilder
+- [America's Test Kitchen - Pasta alla Norcina](https://www.americastestkitchen.com/recipes/7667-pasta-alla-norcina)
+
 ## Ingredienser
 
 Til 6 personer:
