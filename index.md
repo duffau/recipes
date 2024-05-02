@@ -29,5 +29,6 @@ author: Christian Duffau-Rasmussen
 - [Salsa Verde](https://duffau.github.io/recipes/salsa-verde/)
 
 ## Bagværk
+- [Pizza Dej](https://duffau.github.io/recipes/pizza-dej/)
 - [Scones](https://duffau.github.io/recipes/scones/)
   
