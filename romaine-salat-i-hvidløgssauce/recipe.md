@@ -5,6 +5,9 @@ title: "Salat: Blancheret Romaine Salat i Soja-hvidløgsauce"
 [Alle opskrifter](https://duffau.github.io/recipes)
 
 
+## Kilder:
+- [Kenji Lopes Alt - Too Much Romaine? Try This Chinese Recipe - Kenji's Cooking Show](https://youtu.be/d0tzLmt7Zp4?si=TMvhd3tofgkNklQ2)
+
 # Ingredienser
 
 - 1 stk romaine salathoved eller 3 stk. hjertesalathoveder

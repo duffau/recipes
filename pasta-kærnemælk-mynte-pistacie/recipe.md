@@ -6,6 +6,9 @@ title: "Pasta m. Kærnemælk Mynte og Pistacienødder"
 [Alle opskrifter](https://duffau.github.io/recipes)
 
 
+## Kilder
+- [Bon Appetit - Orecchiette with Buttermilk Peas and Pistachios](https://www.bonappetit.com/recipe/orecchiette-with-buttermilk-peas-and-pistachios)
+
 # Ingredienser
 Til 4 serveringer
 

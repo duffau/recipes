@@ -6,8 +6,8 @@ title: "Matty Matheson's Butter Chicken"
 [Alle opskrifter](https://duffau.github.io/recipes)
 
 ## Kilder:
-- https://www.vice.com/en/article/nede8q/simple-butter-chicken-recipe
-- https://www.youtube.com/watch?v=G6Qjf6IyclQ
+- [Matty Matheson - Simple Butter Chicken - Vice](https://www.vice.com/en/article/nede8q/simple-butter-chicken-recipe)
+- [Matty Matheson's Finger Lickin’ Butter Chicken - Munchies YouTube](https://www.youtube.com/watch?v=G6Qjf6IyclQ)
 
 
 # Ingredienser
