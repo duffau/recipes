@@ -25,5 +25,5 @@ Denne dej har 65% hydrering, hvilket er i den lave ende for en Napolitansk pizza
 - Lad hæve ved stuetemperatur i ~10 timer
 - Sæt på køl
 - Form 4 kugler
-- Sæt på køl
+- Sæt på køl til ibrugtagning
 
