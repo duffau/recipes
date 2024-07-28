@@ -7,7 +7,6 @@ author: Christian Duffau-Rasmussen
 ## Salater
 - ['Smashed Cucumber' Salat](https://duffau.github.io/recipes/smashed-cucumber)
 - [Romaine Salat i Hvidløg-sojasauce](https://duffau.github.io/recipes/romaine-salat-i-hvidløgssauce)
-- [Butter Chicken](https://duffau.github.io/recipes/butter-chicken)
 
 ## Pasta
 - [Pasta Bolognese](https://duffau.github.io/recipes/bolognese/)
@@ -19,6 +18,7 @@ author: Christian Duffau-Rasmussen
 ## Asiatisk
 - [Biang Biang Nudler](https://duffau.github.io/recipes/biang-biang/)
 - [Pad Kra-Pao](https://duffau.github.io/recipes/pad-kra-pao/)
+- [Butter Chicken](https://duffau.github.io/recipes/butter-chicken)
 
 ## Sanwiches
 - [Smash Burger](https://duffau.github.io/recipes/burger/)
