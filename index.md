@@ -27,6 +27,7 @@ author: Christian Duffau-Rasmussen
 ## Sauce
 - [Hot Sauce](https://duffau.github.io/recipes/hot-sauce/)
 - [Salsa Verde](https://duffau.github.io/recipes/salsa-verde/)
+- [Asiatiske Basis Saucer](https://duffau.github.io/recipes/asiatiske-basis-saucer)
 
 ## Bagværk
 - [Pizza Dej](https://duffau.github.io/recipes/pizza-dej/)
