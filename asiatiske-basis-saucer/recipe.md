@@ -73,7 +73,7 @@ titel: "Asiatiske Basis Saucer"
 | 3 del | Sort Kinesisk Eddike |
 | 1 del | Sesamolie |
 
-*Anvendelse*: En syrlig sauce til at dyppe **Gyosa**, **forårsruller**, **dumplings** og lign.
+*Anvendelse*: En syrlig sauce til at dyppe Gyosa, forårsruller, dumplings og lign.
 
 ## Thai Dipping Sauce (Nam Jim Jeaw base)
 
