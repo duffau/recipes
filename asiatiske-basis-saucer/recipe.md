@@ -3,7 +3,10 @@ titel: "Asiatiske Basis Saucer"
 ---
 
 [Alle opskrifter](https://duffau.github.io/recipes)
- 
+
+# Introduktion
+
+Denne samling af asiatiske basissaucer er skabt med fokus på de helt grundlæggende, kanoniske komponenter i hver sauce. Aromatiske ingredienser som hvidløg, ingefær, chili og krydderier er udeladt for at give en fleksibel base. Disse saucer fungerer som de er, men de inviterer også til eksperimenter. Man kan tilføje andre smagsgivere og justere blandingsforholdene for at skabe nye variationer.
 
 # Stir Fry
 
