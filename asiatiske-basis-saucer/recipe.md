@@ -7,6 +7,11 @@ titel: "Asiatiske Basis Saucer"
 
 # Stir Fry
 
+Teknik og anvendelse:
+Stir fry er en hurtig og intens tilberedningsteknik, hvor kød, grøntsager og nudler tilberedes ved høj varme i en wok eller pande. Ingredienserne steges hurtigt under konstant omrøring.
+
+En vigtig detalje ved soyabaserede saucer er, at de bør ramme en meget varm pande eller wok. Ved den høje varme sker der spontan karamelisering og Maillard-reaktioner, som udvikler dybere og mere komplekse smagsstoffer i retten. Sørg derfor for, at panden er varm nok, før du tilsætter saucen. Forbered alle ingredienser på forhånd, da tilberedningen går hurtigt.
+
 ## Kinesisk Stir Fry Sauce
 
 | Blandingsforhold |  Ingrediens |
