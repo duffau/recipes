@@ -15,7 +15,7 @@ titel: "Asiatiske Basis Saucer"
 | 2 del | Østersauce |
 | 1 del | Mørk Soyasauce |
 
-*Anvendelse*: Stir fry af alt slags kød og grøntsager. Udvid gerne med Shaoxing vin, sukker og sesamolie. Mørk Soyasauce kan udelades for en helt basal stir fry sauce. 
+*Anvendelse*: Stir fry af alt slags kød og grøntsager. Fungerer godt til stegte ris og nudler. Udvid gerne med Shaoxing vin, sukker og sesamolie. Mørk Soyasauce kan udelades for en helt basal stir fry sauce. 
 
 
 ## Thai Stir Fry Sauce
