@@ -125,8 +125,6 @@ og alt slags kød og andre aromater som hvidløg og ingefær.
 | 3 del | Let soyasauce |
 | 3 del | Sukker |
 | 2 del | Sesamolie |
-| e.s. | Salt |
-
 
 *Anvendelse*: Dressing til salater f.eks. ["Smashed cucumber salat"](https://duffau.github.io/recipes/smashed-cucumber). 
 
