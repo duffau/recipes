@@ -6,14 +6,30 @@ titel: "Asiatiske Basis Saucer"
 
 # Introduktion
 
-Denne samling af asiatiske basissaucer er skabt med fokus på de helt grundlæggende, kanoniske komponenter i hver sauce. Aromatiske ingredienser som hvidløg, ingefær, chili og krydderier er udeladt for at give en fleksibel base. Disse saucer fungerer som de er, men de inviterer også til eksperimenter. Man kan tilføje andre smagsgivere og justere blandingsforholdene for at skabe nye variationer.
+Denne samling af asiatiske saucer er et forsøg på
+at samle nogen grundlæggende komponenter i det Kinesiske og de 
+Sydøst asiatiske køkkener. Håbet er at de kan danne grundlag 
+for at udforske disse køkkener og inviterer
+til at eksperimenterer med asitiske smage og teknikker.
+
+Alle aromatiske ingredienser som løg, hvidløg, ingefær, chili og krydderier 
+etc. er udeladt for at give en fleksibel base. Disse saucer fungerer 
+som de er, men bliver oftes brugt sammen med aromatiske
+smagsgivere. Det er derfor oplagt at tilføje smagsgivere og 
+justere blandingsforholdene for at skabe nye variationer.
 
 # Stir Fry
 
-Teknik og anvendelse:
-Stir fry er en hurtig og intens tilberedningsteknik, hvor kød, grøntsager og nudler tilberedes ved høj varme i en wok eller pande. Ingredienserne steges hurtigt under konstant omrøring.
+Stir fry er en hurtig og intens tilberedningsteknik, 
+hvor kød, grøntsager, ris og nudler tilberedes ved 
+høj varme i en wok eller pande. Ingredienserne steges 
+hurtigt under konstant omrøring.
 
-En vigtig detalje ved soyabaserede saucer er, at de bør ramme en meget varm pande eller wok. Ved den høje varme sker der spontan karamelisering og Maillard-reaktioner, som udvikler dybere og mere komplekse smagsstoffer i retten. Sørg derfor for, at panden er varm nok, før du tilsætter saucen. Forbered alle ingredienser på forhånd, da tilberedningen går hurtigt.
+En vigtig detalje ved soyabaserede saucer er, at de bør 
+ramme en meget varm pande eller wok. Ved den høje varme 
+sker der spontan karamelisering og Maillard-reaktioner, 
+som udvikler dybere og mere komplekse smagsstoffer i retten. 
+Sørg derfor for, at panden er varm nok, før du tilsætter saucen.
 
 ## Kinesisk Stir Fry Sauce
 
@@ -46,6 +62,11 @@ En vigtig detalje ved soyabaserede saucer er, at de bør ramme en meget varm pan
 | 1 del | Sukker |
 | 0.5 del | Mørk Soyasauce |
 
+*Anvendelse*: Basen er inspireret at thai
+retten "Pad Kra Pao" hvor hakket svinekød bliver
+glaseret i sauceblandingen og "Holy Basil"
+er kernearomaten. Basen fungere til grøntsager
+og alt slags kød og andre aromater som hvidløg og ingefær.
 
 # Glaseret kød
 
