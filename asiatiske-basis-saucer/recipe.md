@@ -6,16 +6,14 @@ titel: "Asiatiske Basis Saucer"
 
 # Introduktion
 
-Denne samling af asiatiske saucer er et forsøg på
+Disse asiatiske saucer er et forsøg på
 at samle nogen grundlæggende komponenter i det Kinesiske og de 
 Sydøst asiatiske køkkener. Håbet er at de kan danne grundlag 
-for at udforske disse køkkener og inviterer
-til at eksperimenterer med asitiske smage og teknikker.
+for at udforske asiatiske smage og teknikker.
 
-Alle aromatiske ingredienser som løg, hvidløg, ingefær, chili og krydderier 
-etc. er udeladt for at give en fleksibel base. Disse saucer fungerer 
-som de er, men bliver oftes brugt sammen med aromatiske
-smagsgivere. Det er derfor oplagt at tilføje smagsgivere og 
+Alle aromatiske ingredienser så som løg, hvidløg, ingefær, chili og krydderier 
+etc. er udeladt for at give en fleksibel base. Saucerne fungerer 
+som de er, men det er oplagt at tilføje smagsgivere og 
 justere blandingsforholdene for at skabe nye variationer.
 
 # Stir Fry
