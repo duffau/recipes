@@ -48,7 +48,10 @@ Sørg derfor for, at panden er varm nok, før du tilsætter saucen.
 | 2 del | Let Soyasauce |
 | 1 del | Sesameolie |
 
-*Anvendelse*: Stir fry af alt slags kød og grøntsager. Udvid gerne med østerssauce, sukker og/eller tamarind paste (f.eks. i Pad Thai).
+*Anvendelse*: Stir fry af alt slags kød og grøntsager. 
+Udvid gerne med østerssauce, sukker og/eller 
+tamarind paste som er basen i den klassiske 
+Thailandske stegt nuddelret "Pad Thai".
 
 ## [Pad Kra Pao](ttps://duffau.github.io/recipes/farang-pad-krapao) stir fry sauce
 
