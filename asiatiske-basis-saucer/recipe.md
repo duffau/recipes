@@ -24,7 +24,7 @@ høj varme i en wok eller pande. Ingredienserne steges
 hurtigt under konstant omrøring.
 
 En vigtig detalje ved soyabaserede saucer er, at de bør 
-ramme en meget varm pande eller wok. Ved den høje varme 
+komme i direkte kontakt med den varme pande eller wok. Ved den høje varme 
 sker der spontan karamelisering og Maillard-reaktioner, 
 som udvikler dybere og mere komplekse smagsstoffer i retten. 
 Sørg derfor for, at panden er varm nok, før du tilsætter saucen.
