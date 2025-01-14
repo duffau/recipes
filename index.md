@@ -14,6 +14,7 @@ author: Christian Duffau-Rasmussen
 - [Pasta Ragù Bianco](https://duffau.github.io/recipes/ragu-bianco/)
 - [Pasta Alla Norcina](https://duffau.github.io/recipes/pasta-alla-norcina/)
 - [Pasta m. Kærnemælk, mynte og pistacienødder](https://duffau.github.io/recipes/pasta-kærnemælk-mynte-pistacie)
+- [Pasta m. Tomat og kikærter](https://duffau.github.io/recipes/pasta-tomat-kikærte)
 
 ## Asiatisk
 - [Biang Biang Nudler](https://duffau.github.io/recipes/biang-biang/)
