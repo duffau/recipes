@@ -49,4 +49,4 @@ Til 4 personer:
 - Rør
 - Tilsæt en håndfuld basilikumblade
 - Lad bladed falde sammen under omrøring
-- Server med ris
+- Server med ris og spejlæg på toppen
