@@ -36,7 +36,7 @@ Til 4 personer:
 ### Sauce
 - Bland Soyasauce, Fiskesauce og Østersauce
 
-#### Basilikum
+### Basilikum
 - Skyl og pluk en håndfuld basilikumblade
 
 ## Tilbered 
