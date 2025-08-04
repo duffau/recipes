@@ -41,7 +41,7 @@ Til 4 personer:
 
 ## Tilbered 
 - Varm 3 spsk. smagsneutral olie op i en sauterpande eller wok
-- Steg aromatisk grønsagsmos i et par minutter ved middel-høj varme (7 ud af 9)
+- Steg aromatisk grønsagsmos i et par minutter ved middel-høj varme (7 ud af 9). Steg indtil skarp løg duft aftager.
 - Tilsæt hakket svin
 - Tilsæt et nip salt
 - Lad svinekød stege til det er 1 min fra gennemstegt
