@@ -20,6 +20,7 @@ author: Christian Duffau-Rasmussen
 - [Biang Biang Nudler](https://duffau.github.io/recipes/biang-biang/)
 - [Pad Kra-Pao](https://duffau.github.io/recipes/pad-kra-pao/)
 - [Butter Chicken](https://duffau.github.io/recipes/butter-chicken)
+- [Japansk Karry](https://duffau.github.io/recipes/japansk-karry)
 
 ## Sanwiches
 - [Smash Burger](https://duffau.github.io/recipes/burger/)
