@@ -13,10 +13,9 @@ title: "Kenji Lopez's Japansk Kyllinge Karry"
 
 Til 4 personer:
 
-- 4 spsk. klaret smør eller olie  
+- 4 spsk. smør eller olie  
 - 450 g kyllingebryst, skåret i stykker á ca. 4 cm  
-- 1/2 stort gult løg, skåret i skiver á ca. 1,5 cm  
-- Kosher salt og friskkværnet hvid eller sort peber  
+- 1/2 stort løg, skåret i skiver á ca. 1,5 cm  
 - 3-4 fed hvidløg, finthakket  
 - 1 cm frisk ingefær, finthakket  
 - 2-3 spsk. japansk karrypulver (f.eks. S&B)  
@@ -27,8 +26,10 @@ Til 4 personer:
 - 1 spsk. honning  
 - 1 dl lyse eller almindelige rosiner  
 - 2,5 dl frosne grønne ærter  
+- Salt og  
+- Sort eller hvid peber, friskkværnet  
 
-Til servering: dampet hvid ris, fintskårne kinesiske purløg eller forårsløg, samt syltet daikon eller aubergine.  
+Til servering: dampet hvid ris, fintskårne forårsløg, samt syltet daikon eller aubergine.  
 
 # Fremgangsmåde
 
@@ -36,7 +37,7 @@ Til servering: dampet hvid ris, fintskårne kinesiske purløg eller forårsløg,
 - Skær **kylling** i store tern (ca. 4 cm)  
 - Skær **løg** i skiver á 1,5 cm  
 - Hak **hvidløg** og **ingefær** fint  
-- Skræl og skær **kartoffel** og **gulerod** i store tern (ca. 4 cm)  
+- Skræl og skær **kartoffel** og **gulerod** i store tern (ca. 4 cm)
 - Mål **karrypulver**, **mel**, **rosiner** og **ærter** af, så de er klar  
 
 ## Sauce
@@ -49,7 +50,7 @@ Til servering: dampet hvid ris, fintskårne kinesiske purløg eller forårsløg,
 - Hæld **bouillon/vand** i og rør, så melet opløses  
 - Tilsæt **kartofler, gulerod, honning og rosiner**  
 - Bring i kog, skru ned og lad simre let under låg til grøntsagerne er møre men ikke udkogte (ca. 10 min.)  
-- Smag til med salt, peber og evt. ekstra honning  
+- Smag til med salt, peber og evt. ekstra honning 
 - Rør **ærter** i til sidst  
 
 ## Kog ris
