@@ -18,14 +18,14 @@ Til 4 personer:
 - 1/2 stort løg, skåret i skiver á ca. 1,5 cm  
 - 3-4 fed hvidløg, finthakket  
 - 1 cm frisk ingefær, finthakket  
-- 2-3 spsk. japansk karrypulver (f.eks. S&B)  
+- 2-3 spsk. japansk karrypulver (S&B), masaman karrypulver eller anden gul karrypulver
 - 4 spsk. mel  
 - 1 liter kyllingebouillon eller vand  
-- 1 stor kartoffel (Yukon Gold eller lign.), skrællet og skåret i stykker á ca. 4 cm  
+- 1 stor kartoffel, skrællet og skåret i stykker á ca. 4 cm  
 - 1 stor gulerod, skrællet og skåret i stykker á ca. 4 cm  
 - 1 spsk. honning  
-- 1 dl lyse eller almindelige rosiner  
-- 2,5 dl frosne grønne ærter  
+- 1 dl rosiner  
+- 2,5 dl (frosne) grønne ærter  
 - Salt og  
 - Sort eller hvid peber, friskkværnet  
 
