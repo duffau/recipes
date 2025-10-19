@@ -20,7 +20,7 @@ For at lave ~700 g scones, opdelt i 6-8 stykker.
 | 1 tsk (~2 g)   | Salt
 | 4 tsk (~10 g)  | Bagepulver
 | 4 tsk (~15 g)  | Sukker
-| 250 g  | Mælk
+| 225 g  | Mælk
 
 
 # Fremgangsmåde
