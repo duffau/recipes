@@ -7,6 +7,7 @@ author: Christian Duffau-Rasmussen
 ## Salater
 - ['Smashed Cucumber' Salat](https://duffau.github.io/recipes/smashed-cucumber)
 - [Romaine Salat i Hvidløg-sojasauce](https://duffau.github.io/recipes/romaine-salat-i-hvidløgssauce)
+- [Spidskål med Parmesancreme](https://duffau.github.io/recipes/spidskaal-med-parmesan-creme)
 
 ## Pasta
 - [Pasta Bolognese](https://duffau.github.io/recipes/bolognese/)
