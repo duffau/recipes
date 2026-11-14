@@ -1,28 +1,44 @@
-Boller
+|titel    |Opskrift: Boller          |
+|---------|--------------------------|
+|forfatter|Daniel Duffau-Rasmussen|
 
-Ca.12 stk
+Alle opskrifter
 
-500g hvedemel 
-350 g (eller op til 400 g) vand
-12 g salt
-10 g gær
+# Ingredienser
 
-Lav en fordej
-	•	Bland halvdelen af vandet med gær.
-	•	Tilsæt halvdelen af melet.
-	•	Lad det stå ude på køkkenbordet i 2-6 timer, til dobbelt størrelse.
+Til ca. 12 boller.
 
-Ælt dejen 
-	•	Kom fordejen i røreskålen med vand, salt og resten af melet.
-	•	Ælt dejen til den består glutentesten. 
-	•	Kom dejen i en firkantet bøtte med låg.
-	•	Lads dejen stå ude og fold den 2-3 gange.
-	•	Sæt dejen på køl i 12-24 timer.
+|Vægt     |Ingrediens|
+|---------|----------|
+|500 g    |Hvedemel  |
+|350–400 g|Vand      |
+|12 g     |Salt      |
+|10 g     |Gær       |
 
-Bag bollerne
-	•	Tænd ovnen på 250-300 grader, varmluft.
-	•	Vend dejen ud på et meldrysset bord.
-	•	Drys mel på dejen.
-	•	Skær dejen ud med en kniv, skær den ud i ca. 12 stk boller.
-	•	Bag ved 250 grader.
-(Man kan udskifte op til 100g hvedemel med  en anden meltype F.eks. fuldkornshvedemel, rugmel, grahammel. Start evt. med at udskifte 50g for at se effekten.)
+# Fremgangsmåde
+
+## Lav fordej
+
+- Bland halvdelen af vandet (175–200 g) med gæren.
+- Tilsæt halvdelen af melet (250 g), og rør sammen.
+- Lad fordejen stå på køkkenbordet i 2–6 timer, til den har fordoblet sin størrelse.
+
+## Ælt dejen
+
+• Kom fordejen i røreskålen sammen med resten af vandet, saltet og resten af melet.
+• Ælt dejen, til den består glutentesten.
+• Kom dejen i en firkantet bøtte med låg.
+• Lad dejen stå ved stuetemperatur, og fold den 2–3 gange.
+• Sæt dejen på køl i 12–24 timer.
+
+## Bag bollerne
+
+• Forvarm ovnen til 250–300 °C varmluft.
+• Vend dejen ud på et meldrysset bord, og drys mel ovenpå.
+• Skær dejen i ca. 12 boller med en kniv.
+• Bag bollerne ved 250 °C, til de er gyldne og gennembagte.
+
+Variationer
+
+• Op til 100 g hvedemel kan erstattes med en anden meltype, fx fuldkornshvedemel, rugmel eller grahamsmel.
+• Start eventuelt med at udskifte 50 g for at se effekten.
