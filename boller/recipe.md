@@ -2,7 +2,7 @@
 |---------|--------------------------|
 |forfatter|Daniel Duffau-Rasmussen|
 
-Alle opskrifter
+[Alle opskrifter](https://duffau.github.io/recipes)
 
 # Ingredienser
 
@@ -25,20 +25,20 @@ Til ca. 12 boller.
 
 ## Ælt dejen
 
-• Kom fordejen i røreskålen sammen med resten af vandet, saltet og resten af melet.
-• Ælt dejen, til den består glutentesten.
-• Kom dejen i en firkantet bøtte med låg.
-• Lad dejen stå ved stuetemperatur, og fold den 2–3 gange.
-• Sæt dejen på køl i 12–24 timer.
+- Kom fordejen i røreskålen sammen med resten af vandet, saltet og resten af melet.
+- Ælt dejen, til den består glutentesten.
+- Kom dejen i en firkantet bøtte med låg.
+- Lad dejen stå ved stuetemperatur, og fold den 2–3 gange.
+- Sæt dejen på køl i 12–24 timer.
 
 ## Bag bollerne
 
-• Forvarm ovnen til 250–300 °C varmluft.
-• Vend dejen ud på et meldrysset bord, og drys mel ovenpå.
-• Skær dejen i ca. 12 boller med en kniv.
-• Bag bollerne ved 250 °C, til de er gyldne og gennembagte.
+- Forvarm ovnen til 250–300 °C varmluft.
+- Vend dejen ud på et meldrysset bord, og drys mel ovenpå.
+- Skær dejen i ca. 12 boller med en kniv.
+- Bag bollerne ved 250 °C, til de er gyldne og gennembagte.
 
-Variationer
+## Variationer
 
-• Op til 100 g hvedemel kan erstattes med en anden meltype, fx fuldkornshvedemel, rugmel eller grahamsmel.
-• Start eventuelt med at udskifte 50 g for at se effekten.
+- Op til 100 g hvedemel kan erstattes med en anden meltype, fx fuldkornshvedemel, rugmel eller grahamsmel.
+- Start eventuelt med at udskifte 50 g for at se effekten.
