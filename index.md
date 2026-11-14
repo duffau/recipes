@@ -33,6 +33,7 @@ author: Christian Duffau-Rasmussen
 - [Asiatiske Basis Saucer](https://duffau.github.io/recipes/asiatiske-basis-saucer)
 
 ## Bagværk
+- [Boller](https://duffau.github.io/recipes/boller/)
 - [Pizza Dej](https://duffau.github.io/recipes/pizza-dej/)
 - [Scones](https://duffau.github.io/recipes/scones/)
   
